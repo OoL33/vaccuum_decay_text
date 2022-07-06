@@ -1,0 +1,4 @@
+﻿In quantum field theory, a false vacuum is a hypothetical vacuum that is not actively decaying, but somewhat yet not entirely stable ("metastable"). 
+It may last for a very long time in that state (a property known as metastability), and might eventually move to a more stable state, an event known as false vacuum decay or vacuum metastability event. 
+The most common suggestion of how such a change might happen is called bubble nucleation – if a small region of the universe by chance reached a more stable vacuum, this "bubble" would spread. 
+A false vacuum exists at a local minimum of energy and is therefore not stable, in contrast to a true vacuum, which exists at a global minimum and is stable.
